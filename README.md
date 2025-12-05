@@ -1,52 +1,41 @@
-<div align="center">
-  
-# 👋 Hi there, I'm **Edvin**
-### Developer • Automation Enthusiast • Full-Stack Learner
+# 👋 Hi, I'm Edvin
 
-💡 Building modern web apps, tools, and creative software that make life easier.  
-⚙️ I love turning complex manual tasks into **one-click automations**.  
-🎨 Passionate about clean UI/UX, performance, and developer experience.
+I'm a developer focused on building modern web applications, automation tools, and creative software solutions.
+
+I enjoy transforming complex, repetitive workflows into **simple one-click automations** and designing smooth, intuitive UI/UX experiences.
 
 ---
 
-### 🚀 What I Do
+## 🚀 About Me
 
-- ⚛️ Full-Stack Web Development (React, Vue, TypeScript)
-- 🐍 Backend APIs & automation (Python + Flask/FastAPI)
-- 🎧 Music tooling, playlist migration apps, and browser automation
-- 🛠️ Tools that speed up workflows and eliminate repetitive tasks
-- 🧪 Experimenting with AI-assisted development and smart UI patterns
-
----
-
-### 🌱 Currently Learning
-
-- Advanced Full-Stack Architecture  
-- UI/UX best practices  
-- Concurrency, scaling, and backend optimizations  
+- 💻 I build full-stack applications (React · Vue · TypeScript · Python)
+- ⚙️ I develop automation tools and backend services
+- 🎨 I care about clean interfaces, performance, and usability
+- 🌱 Currently learning: **Full-Stack Architecture** & **Advanced UI/UX Patterns**
+- ⚡ Fun fact: I often automate things just because it's fun
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-#### **Frontend**
-React • Vue • Vite • TypeScript • Tailwind CSS • Radix UI • Zustand / Context API
+### **Frontend**
+- React · Vue · TypeScript  
+- Tailwind CSS · Radix UI · Vite
 
-#### **Backend**
-Python • Flask • FastAPI • Gunicorn • ytmusicapi • spotipy
+### **Backend**
+- Python · Flask · FastAPI  
+- ytmusicapi · spotipy · Gunicorn
 
-#### **Tools & Other**
-Git • Docker • Linux • REST APIs • Web Automation • Browser DevTools
-
----
-
-### 📫 Contact Me
-**Email:** edvintrabajo@gmail.com
+### **Tools**
+- Git · Docker · Linux  
+- REST APIs · Web Automation · Browser DevTools
 
 ---
 
-<div align="center">
-  
-⭐️ _If you like my work, feel free to star my projects or reach out!_ ⭐️
+## 📫 Contact
 
-</div>
+You can reach me at: **edvintrabajo@gmail.com**
+
+---
+
+_If you like my work, feel free to ⭐ my repositories or connect with me!_
