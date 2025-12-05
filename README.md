@@ -20,11 +20,10 @@ I enjoy transforming complex, repetitive workflows into **simple one-click autom
 
 ### **Frontend**
 - React · Vue · TypeScript  
-- Tailwind CSS · Radix UI · Vite
+- Tailwind CSS · Nuxt · Next
 
 ### **Backend**
-- Python · Flask · FastAPI  
-- ytmusicapi · spotipy · Gunicorn
+- Python · Node · Flask  
 
 ### **Tools**
 - Git · Docker · Linux  
